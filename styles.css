@@ -1,0 +1,78 @@
+.logo {
+  	max-width: 200px;
+  	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+}
+
+.center_block{
+	display: block;
+  	margin-left: auto;
+  	margin-right: auto;
+}
+
+.nota{
+	opacity: 0.5;
+}
+
+.passos{
+	font-size: 23px;
+	color: #8A2BE2;
+}
+.numPassos{
+	font-size: 23px;
+	background-color: #F5DEB3;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+h1 { 
+	font-family: 'Enriqueta', arial, serif;  
+	font-size: 40px; 
+	font-weight: bold;
+	color:blue;
+}
+
+h2 {
+	 font-family: 'Open Sans', sans-serif; 
+	 font-size: 24px;
+	 color:green;
+}
+
+body {
+	padding-top: 50px;
+	padding-left: 100px;
+	padding-right:100px;
+	background-color:#FFF8DC;
+
+}
+
+strong{
+	color: #8A2BE2;
+}
+
+a[href^="http"] {
+  background: url(img/globo.png);
+  background-repeat: no-repeat;
+  padding-left:18px;
+}
+
+a:link{
+	color: #0000FF;
+	text-decoration: underline;
+}
+
+a:visited{
+	color: #8B008B;
+	text-decoration: underline;
+}
+
+a:hover{
+	color: #8B0000;
+	text-decoration: underline;
+}
+
+a:active{
+	color: #8B0000;
+	text-decoration: underline;
+}	
